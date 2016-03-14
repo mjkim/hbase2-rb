@@ -1,0 +1,21 @@
+PATH
+  remote: .
+  specs:
+    hbase2-rb (1.2.0)
+      thrift (>= 0.9.3)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (10.5.0)
+    thrift (0.9.3.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  hbase2-rb!
+  rake
+
+BUNDLED WITH
+   1.10.6
